@@ -1,6 +1,6 @@
-# MOSEP — Multi-Sensor Observation Platform
+# MOSEP — Modular Hardware and Software System for Multi-Sensor Environment Perception
 
-This is a collection of repositories surrounding the measurement systems MOLISENS (MObile LIdar SENsor System) [1] and MOSEP (Modular Multi-Sensor System for Environment Perception) [2]. 
+This is a collection of repositories surrounding the measurement systems MOLISENS (MObile LIdar SENsor System) [1] and MOSEP (Modular Hardware and Software System for Multi-Sensor Environment Perception) [2]. 
 MOSEP (as a successor to MOLISENS) is a ROS 2-based multi-sensor platform for environmental and meteorological data acquisition. It supports multiple sensor configurations for stationary monitoring and handheld mapping, with automated precipitation-triggered recording.
 
 ## Repository Structure
